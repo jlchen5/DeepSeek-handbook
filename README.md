@@ -1,4 +1,4 @@
-# DeepSeek-handbook
+# DeepSeek使用手册（DeepSeek-handbook）
 
 ## ①小红书爆款标题指令
 
