@@ -43,4 +43,4 @@
 - 要求：请基于已有的开头内容，续写完整的文章主体和结尾部分，保持文风统一和逻辑连贯。文章要主题鲜明，结构完整，语言流畅自然，符合小红书平台的阅读习惯。请在文章后标注创作思路。
 
 ## Contribution
-Fork this reporitory and add your unqiue command! 
+Fork this reporitory: [DeepSeek handbook](https://github.com/jlchen5/DeepSeek-handbook) and add your unqiue command! 
