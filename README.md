@@ -44,3 +44,6 @@
 
 ## Contribution
 Fork this reporitory: [DeepSeek handbook](https://github.com/jlchen5/DeepSeek-handbook) and add your unqiue command! 
+
+## License
+This project is available under the [MIT License](https://github.com/jlchen5/DeepSeek-handbook/blob/main/LICENSE).
